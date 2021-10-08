@@ -2,8 +2,6 @@
 Repository for the Data Mining project @ University of Pisa a.y. 2021/22
 
 ## Contributors
-[Marco Natali](m.natali10@studenti.unipi.it)
-
 [Dario Salvati](d.salvati2@studenti.unipi.it)
 
 [William Simoni](w.simoni@studenti.unipi.it)
