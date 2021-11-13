@@ -28,7 +28,6 @@ __pycache__
 .#*
 .coverage
 .pytest_cache
-src
 
 *.swp
 *.map
@@ -57,4 +56,3 @@ docs/source/changelog.md
 
 .jupyter_releaser_checkout
 
-.vscode
